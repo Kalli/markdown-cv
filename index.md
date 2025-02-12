@@ -12,7 +12,7 @@ Software Developer
 | [github.com/kalli](http://github.com/kalli)
 {: #webaddress }
 
-Detail oriented and results driven senior software developer with a strong focus on scalable backend systems, data-driven decision-making, and ethical technology. Proven track record shipping code serving millions of users, leading small teams and fostering inclusive, user-first design approaches.
+Detail-oriented and results-driven senior software developer with a strong focus on scalable backend systems, data-driven decision-making, and ethical technology. Proven track record shipping code serving millions of users, leading small teams and fostering inclusive, user-first design approaches.
 
 ## Experience
 
@@ -23,7 +23,7 @@ __Senior Backend Developer__, No Isolation/Kompany, Oslo
 * Designed and implemented scalable backend systems enabling real-time and asynchronous communication across multiple clients, devices, and protocols.
 * Implemented a business intelligence platform and data pipelines enabling data driven decision making and prioritisation.
 * Continued role with Kompany, following a 2024 spin-off from No Isolation.
-* Tech stack: Go, Node, Kubernetes, Mysql, AWS.
+* Tech stack: Go, Node, Kubernetes, MySQL, AWS.
 
 `2019-2021`
 
@@ -32,7 +32,7 @@ __Technical Lead Engineer__, Discogs, Amsterdam
 * Technical lead engineer on the Marketplace team at [Discogs.com](https://discogs.com).
 * Improving vendor tooling and integrations.
 * Architected and deployed scalable, secure services connecting music buyers and sellers on a marketplace handling millions of transactions a year.
-* Tech stack: Python, Javascript / React, Mysql.
+* Tech stack: Python, JavaScript / React, MySQL.
 
 `2016-2019`
 
@@ -41,7 +41,7 @@ __Team Lead / Full Stack Developer__, Discogs, Amsterdam
 * Full stack developer and later lead developer for a team working on community built databases and marketplaces.
 * Managed a team of developers, driving product strategy and cross-functional collaboration with UX, marketing, and community stakeholders.
 * Stewarded community-built databases and marketplace development.
-* Tech stack: Python, Javascript / React, Mongodb, ElasticSearch, Kubernetes.
+* Tech stack: Python, JavaScript / React, MongoDB, ElasticSearch, Kubernetes.
 
 `2011-2016`
 
@@ -68,13 +68,13 @@ __BA (first class), Philosophy, University of Iceland__
 
 Experienced with and proficient in:
 
-* Python (Django, Pandas, Numpy, Flask)
-* Javascript/Typescript (React, D3, Express, Node, Hono)
-* Java (Spring)
-* Go/Golang (intermediate level)
-* SQL (Postgres, SQLite, MySQL), MongoDB and ElasticSearch
-* Docker, Kubernetes, AWS, Google Cloud, Vercel
-* Gitlab CI/CD
+* Python (Django, Pandas, Numpy, Flask).
+* JavaScript/Typescript (React, D3, Express, Node, Hono).
+* Java (Spring).
+* Go/Golang (intermediate).
+* SQL (Postgres, SQLite, MySQL), MongoDB and ElasticSearch.
+* Docker, Kubernetes, AWS, Google Cloud, Vercel.
+* Gitlab CI/CD.
 
 ### Languages
 
