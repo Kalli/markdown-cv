@@ -30,6 +30,8 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	overflow-x: hidden;
+	margin-bottom: 5em;
 }
 ol, ul {
 	padding-left: 1.1em;
@@ -88,7 +90,7 @@ p code {
 ul {
 	position: relative;
 	left: 25%;
-	width: 65%;
+	width: 55%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
