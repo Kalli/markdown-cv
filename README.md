@@ -2,8 +2,8 @@
 
 CV for Karl Tryggvason, software developer from Iceland, living in Oslo, Norway. 
 
-* Online CV: [cv.karltryggvason.com](http://cv.karltryggvason.com)
-* My webpage: [karltryggvason.com](http://karltryggvason.com)
+* Online CV: [cv.karltryggvason.com](https://cv.karltryggvason.com)
+* My webpage: [karltryggvason.com](https://karltryggvason.com)
 
 
 ***
