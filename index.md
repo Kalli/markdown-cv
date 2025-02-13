@@ -82,7 +82,7 @@ Icelandic (native), English (native-like), Danish (native-like), German (interme
 
 ## Hobbies
 
-DJ-ing and record collecting, data visualisation, cross country running, writing.
+DJ-ing and record collecting, data visualisation (see for example my analysis of [the line ups of night clubs on RA](https://lazilyevaluated.co/clubster-analysis/) and [Discogs collection statistics](https://lazilyevaluated.co/discogs-collection-statistics)), cross country running, writing.
 
 ## References
 
