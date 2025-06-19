@@ -69,12 +69,11 @@ __BA (first class), Philosophy, University of Iceland__
 Experienced with and proficient in:
 
 * Python (Django, Pandas, Numpy, Flask).
-* JavaScript/Typescript (React, D3, Express, Node, Hono).
-* Java (Spring).
-* Go/Golang (intermediate).
+* JavaScript/Typescript (React, D3, Express, Node, Hono, Next.js).
+* Go/Golang.
 * SQL (Postgres, SQLite, MySQL), MongoDB and ElasticSearch.
 * Docker, Kubernetes, AWS, Google Cloud, Vercel.
-* Gitlab CI/CD.
+* Gitlab CI/CD / Github Actions.
 
 ### Languages
 
@@ -88,4 +87,4 @@ DJ-ing and record collecting, data visualisation (see for example my analysis of
 
 Available upon request.
 
-<!-- ### Footer Last updated: February 2025 -->
+<!-- ### Footer Last updated: June 2025 -->
