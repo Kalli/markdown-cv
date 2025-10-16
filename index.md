@@ -8,7 +8,7 @@ Software Developer
 
 
 [ktryggvason@gmail.com](mailto:ktryggvason@gmail.com)
-| [KarlTryggvason.com](http://karltryggvason.com)
+| [dev.karltryggvason.com](http://dev.karltryggvason.com)
 | [github.com/kalli](http://github.com/kalli)
 {: #webaddress }
 
