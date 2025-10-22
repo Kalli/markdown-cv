@@ -79,6 +79,11 @@ Experienced with and proficient in:
 
 Icelandic (native), English (native-like), Danish (native-like), German (intermediate), Dutch (intermediate), Spanish (beginner).
 
+## Side projects
+
+* [In the Long Run](https://www.inthelongrun.app) - gamify your long term running ambitions.
+* [SQLYac](https://github.com/Kalli/sqlyac) - CLI tool and query preprocessor to bring structure and documentation to your sql files.
+
 ## Hobbies
 
 DJ-ing and record collecting, data visualisation (see for example my analysis of [the line ups of night clubs on RA](https://lazilyevaluated.co/clubster-analysis/) and [Discogs collection statistics](https://lazilyevaluated.co/discogs-collection-statistics)), cross country running, writing.
