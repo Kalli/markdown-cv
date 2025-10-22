@@ -7,23 +7,26 @@ title: Karl Tryggvason - Curriculum Vitae
 Software Developer
 
 
-[ktryggvason@gmail.com](mailto:ktryggvason@gmail.com)
-| [dev.karltryggvason.com](http://dev.karltryggvason.com)
-| [github.com/kalli](http://github.com/kalli)
+[karl@karltryggvason.com](mailto:karl@karltryggvason.com)
 {: #webaddress }
 
-Detail-oriented and results-driven senior software developer with a strong focus on scalable backend systems, data-driven decision-making, and ethical technology. Proven track record shipping code serving millions of users, leading small teams and fostering inclusive, user-first design approaches.
+[dev.karltryggvason.com](http://dev.karltryggvason.com)
+| [github.com/kalli](http://github.com/kalli){:.print-url}
+{: #webaddress }
+
+Experienced, detail-oriented and results-driven senior fullstack developer with a strong focus on scalable backend systems, data-driven decision-making, and ethical technology. Proven track record shipping code serving millions of users, leading small teams and fostering inclusive, user-first design approaches.
 
 ## Experience
 
 `2021-2025`
 __Senior Backend Developer__, No Isolation/Kompany, Oslo
 
-* Building the back-end services that power [No Isolation's](https://www.noisolation.com) products for the mission to reduce social isolation and loneliness by developing warm technology.
-* Designed and implemented scalable backend systems enabling real-time and asynchronous communication across multiple clients, devices, and protocols.
+* Built and improved the backend services that power [No Isolation's](https://www.noisolation.com) products for the mission to reduce social isolation and loneliness by developing warm technology.
+* Designed and implemented scalable systems enabling real-time and asynchronous communication across multiple clients, devices, and protocols.
+* Maintained and improved ci pipelines for continuous deployment of microservices on a k8s cluster, with a focus on monitoring, alerting and effective resource use.
 * Implemented a business intelligence platform and data pipelines enabling data driven decision making and prioritisation.
 * Continued role with Kompany, following a 2024 spin-off from No Isolation.
-* Tech stack: Go, Node, Kubernetes, MySQL, AWS.
+* Tech stack: Go, Node, Kubernetes, MySQL, Redis, AWS.
 
 `2019-2021`
 
@@ -68,9 +71,9 @@ __BA (first class), Philosophy, University of Iceland__
 
 Experienced with and proficient in:
 
+* Go/Golang.
 * Python (Django, Pandas, Numpy, Flask).
 * JavaScript/Typescript (React, D3, Express, Node, Hono, Next.js).
-* Go/Golang.
 * SQL (Postgres, SQLite, MySQL), MongoDB and ElasticSearch.
 * Docker, Kubernetes, AWS, Google Cloud, Vercel.
 * Gitlab CI/CD / Github Actions.
@@ -82,7 +85,7 @@ Icelandic (native), English (native-like), Danish (native-like), German (interme
 ## Side projects
 
 * [In the Long Run](https://www.inthelongrun.app) - gamify your long term running ambitions.
-* [SQLYac](https://github.com/Kalli/sqlyac) - CLI tool and query preprocessor to bring structure and documentation to your sql files.
+* [SQLYac](https://github.com/kalli/sqlyac) - CLI tool and query preprocessor to bring structure and documentation to your sql files.
 
 ## Hobbies
 
@@ -92,4 +95,4 @@ DJ-ing and record collecting, data visualisation (see for example my analysis of
 
 Available upon request.
 
-<!-- ### Footer Last updated: June 2025 -->
+<!-- ### Footer Last updated: October 2025 -->
