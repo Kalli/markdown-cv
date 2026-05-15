@@ -18,7 +18,17 @@ Experienced, detail-oriented and results-driven senior fullstack developer with 
 
 ## Experience
 
-`2021-2025`
+`2026`
+
+__Senior Software Engineer__, Prisma, Oslo/Remote.
+
+* Engineer on the Metal team building [Prisma Postgres](https://www.prisma.io/postgres), hosted Postgres databases running in unikernels on bare metal hosts distributed worldwide.
+* Built distributed availability canary infrastructure, providing monitoring that catches problems and outages across global infrastructure before customers do.
+* Implemented, expanded and owned the performance benchmarking suite gating new Postgres images across fleet and customer plans, catching regressions before they reach production.
+* Hardened the lower-level network stack between the host and guest operating systems, improving Postgres connection availability.
+* Tech stack: Go, Typescript, Terraform, Ansible, Postgres, rqlite, Unikraft Cloud, Clickhouse, Linux.
+
+`2021-2026`
 __Senior Backend Developer__, No Isolation/Kompany, Oslo
 
 * Built and improved the backend services that power [No Isolation's](https://www.noisolation.com) products for the mission to reduce social isolation and loneliness by developing warm technology.
