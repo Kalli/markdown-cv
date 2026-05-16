@@ -4,7 +4,7 @@ title: Karl Tryggvason - Curriculum Vitae
 ---
 
 # Karl Tryggvason
-Software Developer
+Senior Software Engineer
 
 
 [karl@karltryggvason.com](mailto:karl@karltryggvason.com)
@@ -14,7 +14,7 @@ Software Developer
 | [github.com/kalli](http://github.com/kalli){:.print-url}
 {: #webaddress }
 
-Experienced, detail-oriented and results-driven senior fullstack developer with a strong focus on scalable backend systems, data-driven decision-making, and ethical technology. Proven track record shipping code serving millions of users, leading small teams and fostering inclusive, user-first design approaches.
+Senior software engineer with 15 years of backend-leaning fullstack work across consumer marketplaces, social technology, and database infrastructure. Have led teams and products, shipped features and systems, owned observability and performance across services at scale.
 
 ## Experience
 
@@ -31,30 +31,21 @@ __Senior Software Engineer__, Prisma, Oslo/Remote.
 `2021-2026`
 __Senior Backend Developer__, No Isolation/Kompany, Oslo
 
-* Built and improved the backend services that power [No Isolation's](https://www.noisolation.com) products for the mission to reduce social isolation and loneliness by developing warm technology.
-* Designed and implemented scalable systems enabling real-time and asynchronous communication across multiple clients, devices, and protocols.
-* Maintained and improved ci pipelines for continuous deployment of microservices on a k8s cluster, with a focus on monitoring, alerting and effective resource use.
-* Implemented a business intelligence platform and data pipelines enabling data driven decision making and prioritisation.
-* Continued role with Kompany, following a 2024 spin-off from No Isolation.
+* Built services that power [No Isolation's](https://www.noisolation.com) products to reduce social isolation and loneliness through warm technology.
+* Replaced in-house SMS-based login with a self-hosted identity provider and extracted authorization layer. Unlocked SSO and MFA for B2B customers, improved login flow for B2C users, and cut authz request latency by an order of magnitude while simplifying integration for new microservices.
+* Led a backend rewrite of in-app subscriptions, which grandfathered existing users and consolidated billing paths, to support a shift from freemium to mandatory subscriptions for new B2C users. Revenue grew 160% in the period after.
+* Implemented a business intelligence platform and data pipelines enabling product and support teams to query usage patterns, feature adoption and device fleet health without engineering support.
 * Tech stack: Go, Node, Kubernetes, MySQL, Redis, AWS.
 
-`2019-2021`
+`2016-2021`
 
-__Technical Lead Engineer__, Discogs, Amsterdam
+__Full Stack Developer → Team Lead → Technical Lead Engineer__, Discogs, Amsterdam
 
-* Technical lead engineer on the Marketplace team at [Discogs.com](https://discogs.com).
-* Improving vendor tooling and integrations.
-* Architected and deployed scalable, secure services connecting music buyers and sellers on a marketplace handling millions of transactions a year.
-* Tech stack: Python, JavaScript / React, MySQL.
-
-`2016-2019`
-
-__Team Lead / Full Stack Developer__, Discogs, Amsterdam
-
-* Full stack developer and later lead developer for a team working on community built databases and marketplaces.
-* Managed a team of developers, driving product strategy and cross-functional collaboration with UX, marketing, and community stakeholders.
-* Stewarded community-built databases and marketplace development.
-* Tech stack: Python, JavaScript / React, MongoDB, ElasticSearch, Kubernetes.
+* Joined a project to extend the Discogs collaborative-catalogue model to new domains (music gear, books, comics, posters), took over as team lead in 2018, running a small team of engineers plus part-time contributors.
+* Moved to [Discogs Marketplace](https://discogs.com/marketplace) team in 2019 as Technical Lead Engineer, senior IC track with ownership of vendor tooling and integrations on a marketplace handling millions of transactions a year.
+* Built faceted search across a diverse set of entity schemas, with continuous indexing keeping search accurate across millions of documents.
+* Spearheaded a rewrite of shipping policy configuration and calculation, delivering timely and accurate global shipping costs across tens of millions of inventory items.
+* Tech stack: Python, JavaScript / React, MongoDB, ElasticSearch, Redis, MySQL, Kubernetes.
 
 `2011-2016`
 
@@ -84,13 +75,14 @@ Experienced with and proficient in:
 * Go/Golang.
 * Python (Django, Pandas, Numpy, Flask).
 * JavaScript/Typescript (React, D3, Express, Node, Hono, Next.js).
-* SQL (Postgres, SQLite, MySQL), MongoDB and ElasticSearch.
-* Docker, Kubernetes, AWS, Google Cloud, Vercel.
-* Gitlab CI/CD / Github Actions.
+* SQL (Postgres, SQLite, MySQL), MongoDB, Redis and ElasticSearch.
+* Docker, Kubernetes, AWS, Google Cloud, Cloudflare, Vercel.
+* Grafana, Prometheus, Axiom.
+* GitLab CI/CD, GitHub Actions.
 
 ### Languages
 
-Icelandic (native), English (native-like), Danish (native-like), German (intermediate), Dutch (intermediate), Spanish (beginner).
+Icelandic (native), English (native-like), Danish (native-like), German (intermediate), Dutch (intermediate).
 
 ## Side projects
 
@@ -105,4 +97,4 @@ DJ-ing and record collecting, data visualisation (see for example my analysis of
 
 Available upon request.
 
-<!-- ### Footer Last updated: October 2025 -->
+<!-- ### Footer Last updated: May 2026 -->
