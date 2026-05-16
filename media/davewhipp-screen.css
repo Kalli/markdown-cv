@@ -53,6 +53,36 @@ table {
 /* end of reset */
 
 
+:root {
+	--bg: #ffffff;
+	--text: #000000;
+	--muted: #aaa;
+	--accent: #bc412b;
+	--link-hover: #39f;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--bg: #1a1a1a;
+		--text: #e4e4e4;
+		--muted: #666;
+		--accent: #e07458;
+	}
+}
+
+[data-theme="dark"] {
+	--bg: #1a1a1a;
+	--text: #e4e4e4;
+	--muted: #666;
+	--accent: #e07458;
+}
+
+[data-theme="light"] {
+	--bg: #ffffff;
+	--text: #000000;
+	--muted: #aaa;
+	--accent: #bc412b;
+}
 
 body {
 	font: normal normal 400;
@@ -62,6 +92,33 @@ body {
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
+	background: var(--bg);
+	color: var(--text);
+}
+
+#theme-toggle {
+	position: fixed;
+	top: 1em;
+	right: 1em;
+	padding: 0.4em 0.8em;
+	font-family: Avenir,Verdana,sans-serif;
+	font-size: 0.85em;
+	background: transparent;
+	color: var(--text);
+	border: 1px solid var(--text);
+	border-radius: 4px;
+	cursor: pointer;
+	opacity: 0.5;
+}
+
+#theme-toggle:hover {
+	opacity: 1;
+}
+
+@media print {
+	#theme-toggle {
+		display: none !important;
+	}
 }
 
 p {
@@ -77,7 +134,7 @@ code {
 	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: var(--muted);
 }
 
 p code {
@@ -131,7 +188,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #bc412b;
+	color: var(--accent);
 	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
@@ -154,14 +211,14 @@ a {
 }
 
 a:hover {
-	color:#39f
+	color: var(--link-hover);
 }
 
 #webaddress {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #bc412b;
+	color: var(--accent);
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }
@@ -191,5 +248,5 @@ strong {
 }*/
 
 .invisible {
-	color: #ffffff !important;
+	color: var(--bg) !important;
 }
