@@ -242,10 +242,71 @@ strong {
 
 
 
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+@media only screen and (max-width: 850px) {
+	body {
+		margin-left: 0;
+	}
+
+	h1 {
+		left: 0;
+		padding: 0 1rem;
+		font-size: 2.2em;
+		width: auto;
+	}
+
+	h1 + p {
+		left: 0;
+		width: auto;
+		padding: 0 1rem;
+	}
+
+	#webaddress {
+		left: 0;
+		padding: 0 1rem;
+	}
+
+	h2 {
+		position: static;
+		top: 0;
+		width: auto;
+		text-align: left;
+		font-size: 1.3em;
+		margin-top: 2em;
+		margin-bottom: 0.4em;
+		padding: 0 1rem;
+	}
+
+	h3 {
+		position: static;
+		top: 0;
+		width: auto;
+		text-align: left;
+		font-size: 1.05em;
+		line-height: 1.4em;
+		margin-top: 1.2em;
+		padding: 0 1rem;
+	}
+
+	p {
+		left: 0;
+		width: auto;
+		padding: 0 1rem;
+	}
+
+	ul {
+		left: 0;
+		width: auto;
+		padding-right: 1rem;
+		padding-left: 2.5rem;
+	}
+
+	p code {
+		position: static;
+		text-align: left;
+		right: auto;
+		font-size: 0.85em;
+	}
+}
 
 .invisible {
 	color: var(--bg) !important;

@@ -29,6 +29,7 @@ __Senior Software Engineer__, Prisma, Oslo/Remote.
 * Tech stack: Go, Typescript, Terraform, Ansible, Postgres, rqlite, Unikraft Cloud, Clickhouse, Linux.
 
 `2021-2026`
+
 __Senior Backend Developer__, No Isolation/Kompany, Oslo
 
 * Built services that power [No Isolation's](https://www.noisolation.com) products to reduce social isolation and loneliness through warm technology.
@@ -59,10 +60,12 @@ __Software Developer__, TM Software, Reykjavík (and remote)
 ## Education
 
 `2009-2011`
+
 __BSc (first class), Computer Science, University of Iceland__
 
 
 `2003-2007`
+
 __BA (first class), Philosophy, University of Iceland__
 
 
